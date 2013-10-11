@@ -1,5 +1,6 @@
 nohup.out
 env.sh
+.*.sw*
 
 .idea
 s101plugin.state
